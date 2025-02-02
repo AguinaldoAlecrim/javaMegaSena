@@ -29,6 +29,12 @@ Para executar o programa, digite no terminal o seguinte comando:
 ```bash
 java -jar megasena.jar
 ```
+Ou 
+```bash
+java -jar megasena.jar 120 1000
+```
+Neste último caso, serão geradas 1000 apostas aleatórias, com o número da sorte 120 (seed).
+
 O comando acima pressupõe que o usuário está no diretório onde presente o arquivo `megasena.jar`.
 
 ## Saída
